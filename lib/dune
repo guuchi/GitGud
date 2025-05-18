@@ -1,0 +1,4 @@
+(library
+ (name lib)
+ (modules util repository object command)
+ (libraries unix))
